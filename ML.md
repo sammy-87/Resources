@@ -71,3 +71,16 @@
 
 - [Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 
+
+
+## Jon Shlens Tutorials 
+
+- [A Tutorial on Independent Component Analysis](https://arxiv.org/pdf/1404.2986.pdf)
+
+- [A Tutorial on Principal Component Analysis](https://arxiv.org/pdf/1404.1100.pdf)
+
+- [A Light Discussion and Derivation of Entropy](https://arxiv.org/pdf/1404.1998.pdf)
+
+- [Notes on Generalized Linear Models of Neurons](https://arxiv.org/pdf/1404.1999.pdf)
+
+- [Notes on Kullback-Leibler Divergence and Likelihood Theory](https://arxiv.org/pdf/1404.2000.pdf)
