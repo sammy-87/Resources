@@ -73,7 +73,7 @@
 
 
 
-## Jon Shlens Tutorials 
+# Jon Shlens Tutorials 
 
 - [A Tutorial on Independent Component Analysis](https://arxiv.org/pdf/1404.2986.pdf)
 
